@@ -1,2 +1,2 @@
 # pakxruhatermek
-Itt a pakx ruhatermékeknek az weboldalát feljesztjük!
+Itt a pakx ruhatermékeknek a weboldalát feljesztjük!
